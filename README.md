@@ -11,8 +11,7 @@ This project aims to assist visually impaired individuals by detecting objects i
 
 ## Model Performance
 
-### Detection Results
-![Object Detection Results](image.png)
+![Object Detection Results](Performance_metrics.png)
 
-### Performance Comparison
-![Model Performance Metrics](image.png)
+## Performance Comparison
+![Model Performance Metrics](Comparative_analysis.png)
